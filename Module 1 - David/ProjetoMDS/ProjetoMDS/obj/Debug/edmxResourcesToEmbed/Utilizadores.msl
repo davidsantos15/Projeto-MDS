@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UtilizadoresStoreContainer" CdmEntityContainer="UtilizadoresContainer">
+    <EntitySetMapping Name="UtilizadorSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Utilizadores.Utilizador)">
+        <MappingFragment StoreEntitySet="UtilizadorSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="DatadeNasc" ColumnName="DatadeNasc" />
+          <ScalarProperty Name="NIF" ColumnName="NIF" />
+          <ScalarProperty Name="Morada" ColumnName="Morada" />
+          <ScalarProperty Name="TipoConta" ColumnName="TipoConta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
