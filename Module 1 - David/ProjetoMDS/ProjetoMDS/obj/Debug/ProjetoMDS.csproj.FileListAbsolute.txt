@@ -18,3 +18,6 @@ C:\Users\David Santos\Documents\ESCOLA\1º Ano\2º Semestre\Metodologias de Dese
 C:\Users\David Santos\Documents\ESCOLA\1º Ano\2º Semestre\Metodologias de Desenvolvimento de Software\Projeto\ProjetoMDS\ProjetoMDS\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\David Santos\Documents\ESCOLA\1º Ano\2º Semestre\Metodologias de Desenvolvimento de Software\Projeto\ProjetoMDS\ProjetoMDS\bin\Debug\EntityFramework.xml
 C:\Users\David Santos\Documents\ESCOLA\1º Ano\2º Semestre\Metodologias de Desenvolvimento de Software\Projeto\ProjetoMDS\ProjetoMDS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David Santos\Documents\GitHub\Projeto-MDS\Module 1 - David\ProjetoMDS\ProjetoMDS\bin\Debug\ProjetoMDS.exe.config
+C:\Users\David Santos\Documents\GitHub\Projeto-MDS\Module 1 - David\ProjetoMDS\ProjetoMDS\obj\Debug\ProjetoMDS.exe
+C:\Users\David Santos\Documents\GitHub\Projeto-MDS\Module 1 - David\ProjetoMDS\ProjetoMDS\obj\Debug\ProjetoMDS.pdb
